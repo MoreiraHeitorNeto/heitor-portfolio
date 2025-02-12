@@ -5,5 +5,6 @@ export const getImageUrl = (path) => {
       path = 'default.png'; // Define uma imagem padrão
   }
   const test = '/assets/';
-  return new URL(test+path, import.meta.url).href;
+  const test2 = 'https://localhost:5173/assets/hero/heroImageMan.png'
+  return new URL(test+path, test2).href;
 };

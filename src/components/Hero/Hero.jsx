@@ -3,6 +3,9 @@ import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
+const test = getImageUrl("hero/heroImageMan.png")
+  console.log(test)
+
 export const Hero = () => {
   return (
     <section className={styles.container}>
@@ -20,7 +23,7 @@ Estou em busca de uma oportunidade para aplicar meu conhecimento, crescer profis
         </a>
       </div>
       <img
-        src="../assets/hero/heroImageMan.png"
+        src={getImageUrl("hero/heroImageMan.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
