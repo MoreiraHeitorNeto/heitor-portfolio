@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HP-landing-page-responsiva",
+    "imageSrc": "projects/HPrint.png",
+    "description": "Esse é o projeto de uma pagina simples, responsiva sobre Harry Potter.",
+    "skills": ["React", "JavasCript", "Css", "Figma"],
+    "demo": "https://hp-landing-page-responsiva.vercel.app/",
+    "source": "https://github.com/MoreiraHeitorNeto/HP-landing-page-responsiva"
+  },
+  {
+    "title": "Weather app",
+    "imageSrc": "projects/weather.png",
+    "description": "Esse é um app sobre informações do tempo, utilizando uma API pública para pegar as informações e mostrar na tela.",
+    "skills": ["React", "JavasCript", "GitHub", "Figma"],
+    "demo": "https://weather-app-iota-bice-35.vercel.app/",
+    "source": "https://github.com/MoreiraHeitorNeto/weather-app"
+  },
+  {
+    "title": "To-Do list",
+    "imageSrc": "projects/ToDo.png",
+    "description": "Esse app é de uma lista de afazeres, adicione itens, marque como feitos ou cancele.",
+    "skills": ["React", "Figma", "GitHub"],
+    "demo": "https://to-do-list-beige-theta-49.vercel.app/",
+    "source": "https://github.com/MoreiraHeitorNeto/To-Do-list"
+  }
+]
