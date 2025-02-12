@@ -5,6 +5,6 @@ export const getImageUrl = (path) => {
       path = 'default.png'; // Define uma imagem padrão
   }
   const test = '/assets/';
-  const test2 = 'https://localhost:5173/assets/hero/heroImageMan.png'
+  const test2 = ' https://heitor-portfolio.vercel.app';
   return new URL(test+path, test2).href;
 };
