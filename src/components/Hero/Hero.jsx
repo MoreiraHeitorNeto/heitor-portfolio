@@ -20,7 +20,7 @@ Estou em busca de uma oportunidade para aplicar meu conhecimento, crescer profis
         </a>
       </div>
       <img
-        src={getImageUrl("../assets/download.jpeg")}
+        src={"../assets/test.jpg"}
         alt="Hero image of me"
         className={styles.heroImg}
       />
