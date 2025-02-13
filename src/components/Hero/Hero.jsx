@@ -21,7 +21,7 @@ Estou em busca de uma oportunidade para aplicar meu conhecimento, crescer profis
         </a>
       </div>
       <img
-        src="/assets/peloamor.jpg"
+        src="/assets/test.png"
         alt="Hero image of me"
         className={styles.heroImg}
       />
