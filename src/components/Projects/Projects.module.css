@@ -24,3 +24,21 @@
   gap: 15px;
   width: 100%;
 }
+
+.githubButton {
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #576cbc; /* Verde */
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.3s ease-in-out;
+}
+
+.githubButton:hover {
+  background-color: #039d50; /* Verde mais escuro no hover */
+}

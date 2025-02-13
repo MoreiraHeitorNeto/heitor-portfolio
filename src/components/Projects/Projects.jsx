@@ -14,14 +14,7 @@ export const Projects = () => {
           return <ProjectCard key={id} project={project} />;
         })}
       </div>
-      <a
-        href="https://github.com/seu-usuario"
-        target="_blank"
-        rel="noopener noreferrer"
-        className={styles.githubButton}
-      >
-        Acesse todos os projetos no GitHub
-      </a>
+      <a href="https://github.com/MoreiraHeitorNeto" target="_blank" rel="noopener noreferrer" className={styles.githubButton}> Acesse todos os projetos no GitHub </a>
     </section>
   );
 };
