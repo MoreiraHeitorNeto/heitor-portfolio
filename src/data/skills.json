@@ -1,34 +1,34 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "/css.png"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "/react.png"
   },
   {
     "title": "Node",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "/node.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/javascript-introducao.svg"
+    "imageSrc": "/javascript-introducao.svg"
   },
   {
     "title": "Bootstrap",
-    "imageSrc": "skills/bootstrap.svg"
+    "imageSrc": "/bootstrap.svg"
   },
   {
     "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "/figma.png"
   },
   {
     "title": "GitHub",
-    "imageSrc": "skills/git-github.svg"
+    "imageSrc": "/git-github.svg"
   }
 ]
