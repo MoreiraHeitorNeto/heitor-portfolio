@@ -17,13 +17,13 @@ export const Contact = () => {
         </li>
         <li className={styles.link}>
           <img
-            src={getImageUrl("contact/linkedinIcon.png")}
+            src="/linkedinIcon.png"
             alt="LinkedIn icon"
           />
           <a href="https://www.linkedin.com/in/heitor-moreira-0983a9173/">linkedin.com/HeitorMoreira</a>
         </li>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
+          <img src="/githubIcon.png" alt="Github icon" />
           <a href="https://github.com/MoreiraHeitorNeto">github.com/MoreiraHeitorNeto</a>
         </li>
       </ul>
