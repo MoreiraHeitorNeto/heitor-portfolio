@@ -5,6 +5,5 @@ export const getImageUrl = (path) => {
       path = 'default.png'; // Define uma imagem padrão
   }
   const test = '/assets/';
-  const test2 = ' https://heitor-portfolio.vercel.app';
-  return new URL(test+path, test2).href;
+  return new URL(test+path, import.meta.url).href;
 };

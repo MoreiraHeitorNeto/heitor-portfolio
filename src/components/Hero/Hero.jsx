@@ -3,8 +3,7 @@ import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
-const test = getImageUrl("hero/heroImageMan.png")
-  console.log(test)
+const linkImg = 'hero/heroImageMan.png';
 
 export const Hero = () => {
   return (
@@ -23,7 +22,7 @@ Estou em busca de uma oportunidade para aplicar meu conhecimento, crescer profis
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImageMan.png")}
+        src={getImageUrl(linkImg)}
         alt="Hero image of me"
         className={styles.heroImg}
       />
