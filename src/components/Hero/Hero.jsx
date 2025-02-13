@@ -4,7 +4,7 @@ import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
-  const newLocal = "../assets/test.png";
+  const newLocal = "../assets/download.jpeg";
   return (
     <section className={styles.container}>
       <div className={styles.content}>
